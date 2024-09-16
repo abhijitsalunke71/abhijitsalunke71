@@ -1,0 +1,31 @@
+# Hi there 👋, I'm [Abhijit S. Salunke]
+
+visit my linkedin profile :- www.linkedin.com/in/abhijit-salunke-143446242
+
+## About Me
+
+- 🔭 I’m currently working on [JavaScript backend project]
+- 🌱 I’m currently learning [Azure, Web Development, Frontend, Backend, MySQL, Git, Github]
+- 👯 I’m looking to collaborate on [As a Web Developer, administrator]
+- 🤔 I’m looking for help with [Intern Joining]
+- 💬 Ask me about [JavaScript, ES6, HTML, CSS]
+- 📫 How to reach me: 
+-                        Gmail -: abhijitsalunke071@gmail.com
+-                        Phone no -: 7821868335
+
+
+## Skills
+
+!JavaScript
+!HTML
+!CSS
+!Azure 
+!Git
+!Github
+!MySQL
+!Frontend
+!Backend
+
+## Connect with Me
+
+!-visit my linkedin profile :- www.linkedin.com/in/abhijit-salunke-143446242
