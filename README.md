@@ -4,7 +4,7 @@ visit my linkedin profile :- www.linkedin.com/in/abhijit-salunke-143446242
 
 ## About Me
 
-- 🔭 I’m currently working on [JavaScript backend project]
+- 🔭 I’m currently working with EHTDC Technology on [ Core Java backend , JSP, Servlet and JDBC ]
 - 🌱 I’m currently learning [Azure, Web Development, Frontend, Backend, MySQL, Git, Github]
 - 👯 I’m looking to collaborate on [As a Web Developer, administrator]
 - 🤔 I’m looking for help with [Intern Joining]
@@ -16,6 +16,7 @@ visit my linkedin profile :- www.linkedin.com/in/abhijit-salunke-143446242
 
 ## Skills
 
+!Core Java / Advanced Java
 !JavaScript
 !HTML
 !CSS
