@@ -9,7 +9,6 @@ Visit my portfolio WebSite :-  https://abhijitsalunkeportfolio.netlify.app/
 - 🌱 I’m currently learning [Azure, Web Development, Frontend, Backend, MySQL, Git, Github]
 - 👯 I’m looking to collaborate on [As a Web Developer, administrator]
 - 🤔 I’m looking for help with [Intern Joining]
-- 💬 Ask me about [JavaScript, ES6, HTML, CSS]
 - 📫 How to reach me: 
 -                        Gmail -: abhijitsalunke071@gmail.com
 -                        Phone no -: 7821868335
